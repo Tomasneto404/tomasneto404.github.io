@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <url>
+    <loc>http://localhost:1313/hacklog/htb/easy-machines/</loc>
+    <lastmod>2025-10-13T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/hacklog/htb/easy-machines/cap/</loc>
+    <lastmod>2025-10-13T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/hacklog/htb/</loc>
+    <lastmod>2025-10-13T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/hacklog/</loc>
+    <lastmod>2025-10-13T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-10-13T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/projects/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+</urlset>
