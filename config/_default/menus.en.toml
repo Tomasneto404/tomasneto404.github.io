@@ -12,12 +12,12 @@
 
 [[main]]
  name = "Contacts"
- pageRef = "projects"
+ pageRef = "contacts"
  weight = 40
 
 [[main]]
  name = "About Me"
- pageRef = "projects"
+ pageRef = "aboutme"
  weight = 30
 
 [[main]]

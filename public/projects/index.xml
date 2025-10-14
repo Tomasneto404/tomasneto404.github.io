@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tomás Neto</title>
-    <link>http://localhost:1313/projects/</link>
+    <link>https://tomasneto.com/projects/</link>
     <description>Recent content on Tomás Neto</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>tn@site.com (Tomás Neto)</managingEditor>
     <webMaster>tn@site.com (Tomás Neto)</webMaster>
     <copyright>© 2025 Tomás Neto</copyright>
-    <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tomasneto.com/projects/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>
