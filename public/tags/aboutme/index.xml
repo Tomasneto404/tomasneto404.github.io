@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Aboutme on Tomás Neto</title>
-    <link>https://tomasneto404.github.io/Web-Portfolio/tags/aboutme/</link>
+    <link>https://tomasneto404.github.io/tags/aboutme/</link>
     <description>Recent content in Aboutme on Tomás Neto</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>tn@site.com (Tomás Neto)</managingEditor>
     <webMaster>tn@site.com (Tomás Neto)</webMaster>
     <copyright>© 2025 Tomás Neto</copyright>
-    <lastBuildDate>Mon, 13 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://tomasneto404.github.io/Web-Portfolio/tags/aboutme/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 13 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://tomasneto404.github.io/tags/aboutme/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>About Me</title>
-      <link>https://tomasneto404.github.io/Web-Portfolio/aboutme/</link>
+      <link>https://tomasneto404.github.io/aboutme/</link>
       <pubDate>Mon, 13 Oct 2025 00:00:00 +0000</pubDate>
       <author>tn@site.com (Tomás Neto)</author>
-      <guid>https://tomasneto404.github.io/Web-Portfolio/aboutme/</guid>
+      <guid>https://tomasneto404.github.io/aboutme/</guid>
       <description></description>
       
     </item>
