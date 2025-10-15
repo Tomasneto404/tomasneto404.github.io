@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Tomás Neto</title>
+    <link>https://tomasneto404.github.io/categories/</link>
+    <description>Recent content in Categories on Tomás Neto</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>tn@site.com (Tomás Neto)</managingEditor>
+    <webMaster>tn@site.com (Tomás Neto)</webMaster>
+    <copyright>© 2025 Tomás Neto</copyright>
+    <lastBuildDate>Mon, 13 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://tomasneto404.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Walktroughs</title>
+      <link>https://tomasneto404.github.io/categories/walktroughs/</link>
+      <pubDate>Mon, 13 Oct 2025 00:00:00 +0000</pubDate>
+      <author>tn@site.com (Tomás Neto)</author>
+      <guid>https://tomasneto404.github.io/categories/walktroughs/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
