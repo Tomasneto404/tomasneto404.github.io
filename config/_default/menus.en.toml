@@ -43,7 +43,7 @@
   weight = 20
 
 [[main]]
-  name = "Cryptography"
+  name = "Homelab"
   parent = "Hacklog"
   pageRef = "wasd"
   weight = 30
