@@ -9,7 +9,7 @@ image: "cap.png"
 ---
 
 ## Phase 1 - Information Gathering
-Isto é bueda fixe e a minha namorada também e eu gosto muito dela
+ISTO É UM TESTE
 ## Phase 2 - Scanning / Discovery
 Like every penetration test, we should start with the information-gathering phase. This stage is one of the most important, because it’s where we’ll uncover the majority of system vulnerabilities.
 ### nmap
