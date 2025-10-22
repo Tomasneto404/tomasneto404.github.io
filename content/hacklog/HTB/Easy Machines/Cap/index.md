@@ -10,14 +10,16 @@ image: "cap.png"
 
 ## Phase 1 - Information Gathering
 Esta é a primeira etapa quando se performa um <i>pentest</i>. É aqui que se recolhe informações sobre o nosso alvo (domínios, IPs, serviços, pessoas, tecnologias, ...) para nos ajudar a construir um mapa da superfície de ataque.
-Bem, isto é apenas uma máquina do <i>Hack The Box</i> por isso vamo-nos focar apenas no IP que nos deram. Neste caso o alvo tinha o IP 10.10.10.245
+Bem, isto é apenas uma máquina do <i>Hack The Box</i> por isso vamo-nos focar apenas no IP que nos deram. Neste caso o alvo tinha o IP <b>10.10.10.245</b>
 ## Phase 2 - Scanning / Discovery
 Like every penetration test, we should start with the information-gathering phase. This stage is one of the most important, because it’s where we’ll uncover the majority of system vulnerabilities.
-### nmap
+### Nmap
 Nmap is a Network tool that allows us to map the assets of a network.
+
 ```shell
 nmap -sV -sC <target-ip> -oA nmapScans 
 ```
+
 - -sV - Faz um <i>scan</i> por serviços ativos e respetivas versões
 - -sC - Ativa <i>scripts</i> "padrão" que fazem reconhecimento aprofundado sobre serviços (banners, títulos HTTP, certificados SSL, ...)
 - -oA - Guarda o resultado em todos os formatos no ficheiro especificado
@@ -44,4 +46,13 @@ Service Info: OSs: Unix, Linux; CPE: cpe:/o:linux:linux_kernel
 
 Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
 Nmap done: 1 IP address (1 host up) scanned in 16.09 seconds
+```
+
+Podemos verificar que o nosso alvo tem alguns serviços interessantes como o FTP (File Transfer Protocol) na porta 21, SSH (Secure Shell) na porta 22, e um serviço web Gunicorn na porta 80.
+Mas ainda é possível recolher mais informações.
+### Whatweb
+É uma ferramenta de <i>fingerprinting</i> de sites, isto é, tenta identificar tecnologias usadas por um site - Content Management Systems (Wordpress, Joomla), frameworks (Laravel, Django, Flask), servidores web, bibliotecas de Javascript, ...
+
+```shell
+whatweb <target-ip>
 ```
