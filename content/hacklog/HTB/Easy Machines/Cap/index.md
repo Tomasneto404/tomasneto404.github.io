@@ -18,7 +18,7 @@ Nmap is a Network tool that allows us to map the assets of a network.
 ```shell
 nmap -sV -sC <target-ip> -oA nmapScans 
 ```
-- -sV - Faz um <i>scan<i> por serviços ativos e respetivas versões
+- -sV - Faz um <i>scan</i> por serviços ativos e respetivas versões
 - -sC - Ativa <i>scripts</i> "padrão" que fazem reconhecimento aprofundado sobre serviços (banners, títulos HTTP, certificados SSL, ...)
 - -oA - Guarda o resultado em todos os formatos no ficheiro especificado
 - nmapScans - Nome para dar aos ficheiros com o resultado do nmap
