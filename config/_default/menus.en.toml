@@ -34,13 +34,13 @@
   name = "Hack The Box"
   parent = "Hacklog"
   pageRef = "hacklog/htb"
-  weight = 10
+  weight = 20
 
 [[main]]
-  name = "Try Hack Me"
+  name = "InfoSec"
   parent = "Hacklog"
   pageRef = "wasd"
-  weight = 20
+  weight = 10
 
 [[main]]
   name = "Homelab"
