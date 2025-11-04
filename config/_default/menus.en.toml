@@ -39,7 +39,7 @@
 [[main]]
   name = "InfoSec"
   parent = "Hacklog"
-  pageRef = "wasd"
+  pageRef = "hacklog/InfoSec"
   weight = 10
 
 [[main]]
