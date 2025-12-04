@@ -3,7 +3,7 @@ title: "HomeLab Network 0.1"
 description: "First Documentation of my Home Lab Network"
 categories: ["Homelab"]
 tags: ["Homelab", "linux"]
-draft: false
+draft: true
 ---
 
 ## Why Document the Network?
@@ -27,5 +27,7 @@ Many standards and regulations require clear records of the IT infrastructure. D
 ![HomeLab Network](HomeLab_Network_Diagram.png "Home Lab Network 0.1")
 
 ### Machines
-1. TrueNAS Server
-- This is my main Network Attached Storage (NAS) server.
+- **TrueNAS Server**
+This is my main Network Attached Storage (NAS) server. It is where i store my backups, private files, media library, and everything that a i need.
+
+### Considerations and Future Improvements
