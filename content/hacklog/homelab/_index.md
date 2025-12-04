@@ -1,5 +1,5 @@
 ---
-title: "Home Lan Journey"
+title: "Home Lab Journey"
 ---
 
 ### My HomeLab Documentation

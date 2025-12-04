@@ -4,7 +4,7 @@ description: "How to Solve Cap Machine"
 categories: ["walktroughs"]
 tags: ["HTB", "Easy Machines", "Cap", "nmap", "gobuster", "wireshark", "ssh", "privesc", "linux", "enumeration", "flag" , "root"]
 date: 2025-10-13
-draft: false
+draft: true
 image: "cap.png"
 ---
 
