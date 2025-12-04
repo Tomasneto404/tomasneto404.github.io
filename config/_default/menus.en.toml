@@ -45,7 +45,7 @@
 [[main]]
   name = "Homelab"
   parent = "Hacklog"
-  pageRef = "wasd"
+  pageRef = "hacklog/homelab"
   weight = 30
 
 
