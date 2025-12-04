@@ -46,6 +46,7 @@ title = "Tomás Neto"
 #     { kickstarter = "https://www.kickstarter.com/profile/username" },
 #     { lastfm = "https://lastfm.com/user/username" },
       { linkedin = "https://www.linkedin.com/in/tomas-n-41b479293/" },
+      { printables = "https://github.com/Tomasneto404/tomasneto404.github.io.git" },
 #     { mastodon = "https://mastodon.instance/@username" },
 #     { matrix = "https://matrix.to/#/URI" },
 #     { medium = "https://medium.com/username" },
